@@ -1,0 +1,11 @@
+# Go to github.com and create new repository
+# Then copy these commands and run them where you want your project:
+
+git clone https://github.com/yourusername/valve-catalog.git
+cd valve-catalog
+
+# Copy all the files we created above into this folder
+
+git add .
+git commit -m "Initial commit"
+git push origin main
